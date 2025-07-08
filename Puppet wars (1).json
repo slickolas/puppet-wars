@@ -1,0 +1,41 @@
+{
+  "name": "Puppet wars",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Puppet War",
+      "bundleIdentifier": "com.orenbentov.puppetwarfps",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/3129Vx2.png",
+      "tintColor": "#8404cc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "6.0",
+          "date": "2025-07-08T14:58:00-04:00",
+          "localizedDescription": "version#1",
+          "downloadURL": "https://archive.org/download/ios-ipa-collection/Puppet%20War%201.2.ipa",
+          "size": 43800000,
+          "buildVersion": "6",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
