@@ -6,8 +6,8 @@
   "website": "https://altstudio.app",
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
-  "featuredApps": [],
-  "apps": [
+  "featuredApps": [Puppet War],
+  "apps": [Puppet War]
     {
       "name": "Puppet War",
       "bundleIdentifier": "com.orenbentov.puppetwarfps",
@@ -24,10 +24,10 @@
           "downloadURL": "https://archive.org/download/ios-ipa-collection/Puppet%20War%201.2.ipa",
           "size": 43800000,
           "version": "6.0",
-          "buildVersion": [1] ,
+          "buildVersion": [3] ,
           "date": "2025-07-08T10:58:00-04:00",
           "localizedDescription": "version#",
-          "minOSVersion": null
+          "minOSVersion": 12
         }
       ],
       "appPermissions": {
