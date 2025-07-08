@@ -19,12 +19,12 @@
       "tintColor": "#8404cc",
       "category": "other",
       "screenshots": [],
-      "versions": [
+      "versions": [1]
         {
           "downloadURL": "https://archive.org/download/ios-ipa-collection/Puppet%20War%201.2.ipa",
           "size": 43800000,
           "version": "6.0",
-          "buildVersion": null,
+          "buildVersion": [1] ,
           "date": "2025-07-08T10:58:00-04:00",
           "localizedDescription": "version#",
           "minOSVersion": null
